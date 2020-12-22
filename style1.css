@@ -1,0 +1,18 @@
+img{
+	width:650;
+	border:2px solid white;
+}
+
+body{
+	
+}
+
+.red{
+	color: red;
+	font-size: 32px;
+}
+
+#specialstyle{
+	border:2px solid red;
+	background-color: green;
+}
